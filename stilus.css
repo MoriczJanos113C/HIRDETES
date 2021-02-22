@@ -1,0 +1,45 @@
+body{
+    padding: 40px;
+    background-image: url('hatter.jpg');
+    background-size: 100%;
+    background-repeat: repeat;
+    font-family: Verdana;
+}
+.egeszinformacio{
+    text-align: center;
+}
+.leirasa_informacio{
+    font-size: large;
+}
+h1{
+    text-align: center;
+    color:cornflowerblue;
+    font-weight: bold;
+    
+}
+h2{
+    color:darkgray;
+    font-weight: bold;
+}
+.szerzo{
+    text-align: center;
+}
+#egygomb{
+    width: 100%;
+    margin-bottom: 0.01px;
+}
+.navbar{
+    background-color: cornflowerblue;
+    text-align: left;
+    padding: 10px;
+}
+p{
+    color:darkgray;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+.arak{
+    text-align: left;
+}
