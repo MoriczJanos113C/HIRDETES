@@ -43,3 +43,13 @@ img {
 .arak{
     text-align: left;
 }
+.container {
+    padding: 2px 16px;
+  }
+.carousel-inner img {
+    width: 50%;
+    height: 50%;
+}
+.footer{
+    text-align: center;
+}
